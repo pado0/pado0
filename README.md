@@ -80,7 +80,7 @@ but I prioritize fundamental concepts and leverage frameworks and languages as t
 **Experimental Web Page for Content Search**
 - Developed a content search web service using React, Next.js, Recoil, Styled Components.
 - Increased subscription page CTR by 11% through SEO optimization.
-- [Demo Page](https://lab.i-nara.co.kr/search)
+- [Demo Page](https://lab.i-nara.co.kr)
 
 ### 📊 _As a Project Manager_
 **Project Manager for KidsWorld App Development (Jan 2022 – Jul 2022)**
