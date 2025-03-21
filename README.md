@@ -1,9 +1,9 @@
 # Welcome to my GitHub!
 Hello, I'm Hyojin (Jean) Kim,
 a Backend Engineer with a strong foundation in project management and system analysis.
-I specialize in analyzing legacy systems and thrive in tackling new, complex challenges.
+I specialize in analyzing legacy systems and thrive in tackling new, complex challenges.<br><br>
 
-### 🚀 Professional Philosophy
+###  Professional Philosophy
 👩‍💻 Development
 I believe maintainability is crucial.
 I strive to provide reliable services by carefully considering the roles and responsibilities of domains and architecture.
@@ -14,7 +14,7 @@ I build trust with coworkers through clear scheduling, structured design, and re
 
 👥 Company Culture
 I believe in active participation in company culture.
-I foster a healthy work environment through constructive communication, a continuous interest in service improvements, and a supportive attitude.
+I foster a healthy work environment through constructive communication, a continuous interest in service improvements, and a supportive attitude.<br><br>
 
 ## 1️⃣ Stacks & Tools
 I primarily work with Spring and Kotlin,
@@ -47,10 +47,10 @@ but I prioritize fundamental concepts and leverage frameworks and languages as t
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
-![Colima](https://img.shields.io/badge/Colima-FF9800?style=flat-square&logo=Docker&logoColor=white)
+![Colima](https://img.shields.io/badge/Colima-FF9800?style=flat-square&logo=Docker&logoColor=white)<br><br>
 
 ## 2️⃣ Projects
-### 🏗️ As a Backend Engineer
+### 🏗️ _As a Backend Engineer_
 
 **Backend For Frontend Server Development and Operations for 아이들나라 (KidsWorld) (Oct 2024 – March 2025)**
 -  Improved response time by 80% using the CQRS pattern and caching techniques.
@@ -76,13 +76,13 @@ but I prioritize fundamental concepts and leverage frameworks and languages as t
 **Learning Report Automation Project for KidsWorld (june 2022 – Nov 2022)**
 - Developed an automated report generation system using Spring Batch, DynamoDB, and SQS.
 
-### 💻 As a Fullstack Engineer
+### 💻 _As a Fullstack Engineer_
 **Experimental Web Page for Content Search**
 - Developed a content search web service using React, Next.js, Recoil, Styled Components.
 - Increased subscription page CTR by 11% through SEO optimization.
 - [Demo Page](https://lab.i-nara.co.kr/search)
 
-### 📊 As a Project Manager
+### 📊 _As a Project Manager_
 **Project Manager for KidsWorld App Development (Jan 2022 – Jul 2022)**
 - Managed the development of the OTT service app "KidsWorld," targeting infants and toddlers
 - Supported the development of interactive content for coding education
@@ -90,14 +90,14 @@ but I prioritize fundamental concepts and leverage frameworks and languages as t
 **Project Manager for ElementaryWorld App Development (Oct 2019 – Dec 2021)**
 - Managed the development of the "ElementaryWorld" app, a homeschooling service targeting elementary school students
 - Oversaw 3rd party app integration and learning management service development
-- Discovered and implemented a feature to measure learning concentration using eye-tracking technology
+- Discovered and implemented a feature to measure learning concentration using eye-tracking technology<br><br>
 
 ## 3️⃣ Interest
 I am passionate about maintaining a healthy body and mind through activities such as
 - Guitar
 - Yoga
 - Free Diving
-- Climbing
+- Climbing<br><br>
 
 ##  4️⃣ How to reach me
 - [Resume](https://your-link.com)
