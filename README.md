@@ -56,7 +56,7 @@ but I prioritize fundamental concepts and leverage frameworks and languages as t
 -  Improved response time by 80% using the CQRS pattern and caching techniques.
 
 **Content Search Service Development and Operations for KidsWorld (Feb 2023 – March 2025)**
-- PDeveloped typo correction and initial consonant search functionality using OpenSearch.
+- Developed typo correction and initial consonant search functionality using OpenSearch.
 - Implemented semantic search through Hybrid Search
 - Reduced search failure rate from 16% to 1% through metric-driven tuning.
 
