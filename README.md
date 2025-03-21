@@ -4,15 +4,15 @@ a Backend Engineer with a strong foundation in project management and system ana
 I specialize in analyzing legacy systems and thrive in tackling new, complex challenges.<br><br>
 
 ###  Professional Philosophy
-👩‍💻 Development
+👩‍💻 Development<br>
 I believe maintainability is crucial.
 I strive to provide reliable services by carefully considering the roles and responsibilities of domains and architecture.
 
-💼 Work Ethic
+💼 Work Ethic<br>
 I value predictability.
 I build trust with coworkers through clear scheduling, structured design, and reliable development practices.
 
-👥 Company Culture
+👥 Company Culture<br>
 I believe in active participation in company culture.
 I foster a healthy work environment through constructive communication, a continuous interest in service improvements, and a supportive attitude.<br><br>
 
@@ -100,6 +100,6 @@ I am passionate about maintaining a healthy body and mind through activities suc
 - 🧗 Climbing<br><br>
 
 ##  4️⃣ How to reach me
-- [Resume](https://your-link.com)
+- [Resume](https://docs.google.com/document/d/19N_fOe5OVU4OvIRFSONJk3n9cGKZBfKdct7v2T2Uv7M/edit?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/hyojin-kim-902994246/?locale=en_US)
 - [Blog](https://medium.com/@pado0)
