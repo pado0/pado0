@@ -20,19 +20,34 @@ I foster a healthy work environment through constructive communication, a contin
 I primarily work with Spring and Kotlin,
 but I prioritize fundamental concepts and leverage frameworks and languages as tools to build effective solutions.
 
-**Stacks** 
-- Framework : Spring
-- Language : Java / Kotlin
-- DB : Postgres / MongoDB / DynamoDB
-- Cache : Redis
-- Search : OpenSearch / Semantic Search / NER
-- AI : Embedding / Prompting / RAG
-- Messaging : Kafka / SQS
-- CD : Docker / Kubernetes
+### 🚀 Tech Stack
 
-**Tools**
-Git / Slack / Jira / Confluence / Intellij / postman / colima
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=OpenSearch&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-FF6F00?style=flat-square&logo=Google%20Scholar&logoColor=white)
+![NER](https://img.shields.io/badge/NER-336791?style=flat-square&logo=spaCy&logoColor=white)
+![Embedding](https://img.shields.io/badge/Embedding-663399?style=flat-square&logo=OpenAI&logoColor=white)
+![Prompting](https://img.shields.io/badge/Prompting-FF9900?style=flat-square&logo=OpenAI&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF4500?style=flat-square&logo=OpenAI&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white)
+![SQS](https://img.shields.io/badge/AWS%20SQS-FF4F8B?style=flat-square&logo=Amazon%20AWS&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+![Colima](https://img.shields.io/badge/Colima-FF9800?style=flat-square&logo=Docker&logoColor=white)
 
 ## 2️⃣ Projects
 ### 🏗️ As a Backend Engineer
