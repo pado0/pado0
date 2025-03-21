@@ -94,10 +94,10 @@ but I prioritize fundamental concepts and leverage frameworks and languages as t
 
 ## 3️⃣ Interest
 I am passionate about maintaining a healthy body and mind through activities such as
-- Guitar
-- Yoga
-- Free Diving
-- Climbing<br><br>
+- 🎸 Guitar
+- 🧘‍♀️ Yoga
+- 🤿 Free Diving
+- 🧗 Climbing<br><br>
 
 ##  4️⃣ How to reach me
 - [Resume](https://your-link.com)
