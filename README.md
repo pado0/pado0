@@ -74,7 +74,7 @@ but I prioritize fundamental concepts and leverage frameworks and languages as t
 - Reduced deployment time from 1 month to 1 week by migrating Lambda to Spring Boot (Kotlin).
 - Executed a zero-downtime migration with API Gateway, ensuring data consistency.
 
-**✔︎ Learning Report Automation Project for KidsWorld (june 2022 – Nov 2022)**
+**✔︎ Learning Report Automation Project for KidsWorld (– Nov 2022)**
 - Developed an automated report generation system using Spring Batch, DynamoDB, and SQS.
 
 ### 💻 _As a Fullstack Engineer_
