@@ -54,7 +54,7 @@ but I prioritize fundamental concepts and leverage frameworks and languages as t
 
 **✔︎ Backend For Frontend Server Development and Operations for 아이들나라 (KidsWorld) (Oct 2024 – March 2025)**
 - Operated BFF Server in Microservice Architecture.
--  Improved response time by 80% using the CQRS pattern and caching techniques.
+-  Improved response time using the CQRS pattern and caching techniques.
 
 **✔︎ Content Search Service Development and Operations for KidsWorld (Feb 2023 – March 2025)**
 - Developed typo correction and initial consonant search functionality using OpenSearch.
