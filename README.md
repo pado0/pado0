@@ -74,7 +74,7 @@ but I prioritize fundamental concepts and leverage frameworks and languages as t
 - Reduced deployment time from 1 month to 1 week by migrating Lambda to Spring Boot (Kotlin).
 - Executed a zero-downtime migration with API Gateway, ensuring data consistency.
 
-**✔︎ Learning Report Automation Project for KidsWorld (– Nov 2022)**
+**✔︎ Learning Report Automation Project for KidsWorld (Feb 2022 – Nov 2022)**
 - Developed an automated report generation system using Spring Batch, DynamoDB, and SQS.
 
 ### 💻 _As a Fullstack Engineer_
@@ -84,7 +84,7 @@ but I prioritize fundamental concepts and leverage frameworks and languages as t
 - [Demo Page](https://lab.i-nara.co.kr)
 
 ### 📊 _As a Project Manager_
-**✔︎ Project Manager for KidsWorld App Development (Jan 2022 – Jul 2022)**
+**✔︎ Project Manager for KidsWorld App Development (Jan 2022 – Jan 2022)**
 - Managed the development of the OTT service app "KidsWorld," targeting infants and toddlers
 - Supported the development of interactive content for coding education
 
